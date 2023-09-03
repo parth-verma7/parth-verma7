@@ -2,7 +2,7 @@
 
 <!-- <a href="#"><img width="100%" height="auto" src="./assets/gif/standard.gif" height="175px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Parth V</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Parth Verma</h1>
 
 <p align="center">
 <img src="https://media.tenor.com/oyboaxLgcNkAAAAd/maths-lz.gif">
