@@ -73,7 +73,7 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 <!-- ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2)&nbsp; -->
 <!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) -->
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://www.svgrepo.com/show/374016/python.svg)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 <!-- ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) -->
 
@@ -141,11 +141,7 @@
 <p align="center"><img alt="Karthik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikS373&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p> -->
   <!-- <br/> -->
 
-<br/>
-<br/>
 
-<br/>
-<br/>
 
 <h1 align="center"> Connect with me: </h1>
 <br>
@@ -166,8 +162,7 @@
     <img src="https://komarev.com/ghpvc/?username=KarthikS373">            
 </a><img src="https://img.shields.io/github/followers/KarthikS373?label=Followers&style=social" alt="GitHub Badge">
 </p> -->
-<br>
-<br>
+
 
 <p align="center">
 <img src="./assets/0_JeblKGSeSsyozlsF.gif" width="60"> <em><b>I stay involved in networking.</b> Feel free to drop a <b>"Hi"</b> 😊</em>
