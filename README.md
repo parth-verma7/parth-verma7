@@ -173,9 +173,11 @@
 <img src="./assets/0_JeblKGSeSsyozlsF.gif" width="60"> <em><b>I stay involved in networking.</b> Feel free to drop a <b>"Hi"</b> 😊</em>
 
 <!-- ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif) -->
-
 </p>
-<h1 align="center">Hi <img src="./assets/0_JeblKGSeSsyozlsF.gif" width="30px">, I'm Parth V</h1>
+
+<p align="center"><img src="./assets/0_JeblKGSeSsyozlsF.gif"></p>
+
+<!-- <h1 align="center">Hi <img src="./assets/0_JeblKGSeSsyozlsF.gif" width="30px">, I'm Parth V</h1> -->
 <h1 align="center"> 🤝 Support</h1>
 <p align="center">
 Contributions, issues, and feature requests are most welcome!
