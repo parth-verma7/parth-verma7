@@ -170,7 +170,7 @@
 <br>
 
 <p align="center">
-<img src="hhttps://miro.medium.com/v2/resize:fit:1358/0*JeblKGSeSsyozlsF.gif" width="60"> <em><b>I stay involved in networking.</b> Feel free to drop a <b>"Hi"</b> 😊</em>
+<img src="./assets/0_JeblKGSeSsyozlsF.gif" width="60"> <em><b>I stay involved in networking.</b> Feel free to drop a <b>"Hi"</b> 😊</em>
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
