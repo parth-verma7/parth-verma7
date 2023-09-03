@@ -172,8 +172,8 @@
 <p align="center">
 <img src="./assets/0_JeblKGSeSsyozlsF.gif" width="60"> <em><b>I stay involved in networking.</b> Feel free to drop a <b>"Hi"</b> 😊</em>
 
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
-
+<!-- ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif) -->
+<h1 align="center">Hi <img src="./assets/0_JeblKGSeSsyozlsF.gif" width="30px">, I'm Parth V</h1>
 </p>
 
 <h1 align="center"> 🤝 Support</h1>
