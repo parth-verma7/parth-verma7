@@ -127,9 +127,7 @@
 
 <br>
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
 
-<h1 align="center">🔥 Streaks </h1>
 <br>
 
 <!-- <p align="center">
@@ -152,13 +150,12 @@
 <h1 align="center"> Connect with me: </h1>
 <br>
 
-<!-- <p align="center" gap="10">
-<a href="https://karthik-is-dev.xyz"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:karthiks.naick@gmail.com"><img src="https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/0xkarthiks/"><img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/0xkarthikjr"><img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p> -->
+<p align="center" gap="10">
+<a href="https://www.linkedin.com/in/parth-verma-226007228/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/v_parth7"><img src="https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="https://www.instagram.com/0xkarthiks/"><img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/0xkarthikjr"><img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
+</p>
 
 <br/>
 
@@ -173,7 +170,7 @@
 <br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I stay involved in networking.</b> Feel free to drop a <b>"Hi"</b> 😊</em>
+<img src="hhttps://miro.medium.com/v2/resize:fit:1358/0*JeblKGSeSsyozlsF.gif" width="60"> <em><b>I stay involved in networking.</b> Feel free to drop a <b>"Hi"</b> 😊</em>
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
