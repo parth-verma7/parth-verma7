@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Parth V</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=<+Hello+World+/+>;Truth+Seeker;Bringing+life+to+innovation;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+<img src="https://media.tenor.com/oyboaxLgcNkAAAAd/maths-lz.gif">
 </p>
 <br>
 
