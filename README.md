@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/neural-network.avif"></p>
+<!--<p align="center"><img src="./assets/neural-network.avif"></p> -->
 
 <!-- <a href="#"><img width="100%" height="auto" src="./assets/gif/standard.gif" height="175px"/></a> -->
 
