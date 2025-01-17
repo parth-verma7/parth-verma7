@@ -22,11 +22,11 @@
 
 <a href="#" ><img width="400" align="right" style="margin-lefts:25x;" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-- 👨‍🎓 Pre-Final year at **[IIIT Lucknow '25](https://iiitl.ac.in/)**
+- 👨‍🎓 Final year at **[IIIT Lucknow '25](https://iiitl.ac.in/)**
 
 - 🖥 **2+ years of experience** creating and analysing Machine Learning models and Case Studies.
 
-- 📚 I’m currently building **projects** mainly on **Large Language Models** and exploring the world of **startups**
+- 📚 I’m currently building **projects** mainly on **Large Language Models Finetuning and RAG** and exploring the world of **startups**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Artificial Intelligence, Data Sciences and Backend Development**
 
