@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Parth Verma</h1>
-<img src="https://komarev.com/ghpvc/?username=parth-verma7&color=green&style=flat-square&label=Keeping+Profile+Check&abbreviated=true" alt="Profile views">
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=parth-verma7&color=green&style=flat-square&label=Keeping+Profile+Check&abbreviated=true" alt="Profile views">
 <img src="./assets/maths-lz.gif">
 </p>
 <br>
