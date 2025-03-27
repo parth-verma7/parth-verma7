@@ -1,9 +1,5 @@
-<!--<p align="center"><img src="./assets/neural-network.avif"></p> -->
-
-<!-- <a href="#"><img width="100%" height="auto" src="./assets/gif/standard.gif" height="175px"/></a> -->
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Parth Verma</h1>
-
+![](https://komarev.com/ghpvc/?username=parth-verma7&color=green&style=flat-square&label=Keeping+Profile+Check&abbreviated=true)
 <p align="center">
 <img src="./assets/maths-lz.gif">
 </p>
